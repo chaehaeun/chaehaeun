@@ -51,9 +51,7 @@
 
 ![chaehaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehaeun&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&border_radius=5&stroke=2F80ED&ring=2F80ED&currStreakLabel=2F80ED&fire=6DE4EB)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=chaehaeun&border_radius=5&stroke=2F80ED&ring=2F80ED&currStreakLabel=2F80ED&fire=6DE4EB)](https://git.io/streak-stats)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:fff9c1,100:97e6b9)
 
